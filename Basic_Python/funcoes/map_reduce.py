@@ -8,11 +8,11 @@ def somar_nota(delta):
 
 notas = [6.4, 7.2, 5.4, 8.4]
 
-# notas_finais_1 = map(somar_nota(1.5), notas)  # no video desse jeito, pra mim, QUEBRADO
-# notas_finais_2 = map(somar_nota(1.6), notas)  # no video desse jeito, pra mim, QUEBRADO
+# notas_finais_1 = map(somar_nota(1.5), notas)  # no video desse jeito. Pra mim, QUEBRADO
+# notas_finais_2 = map(somar_nota(1.6), notas)  # no video desse jeito. Pra mim, QUEBRADO
 
-# for notas_finais_1 in map(somar_nota, notas): # no video desse jeito, pra mim, QUEBRADO
-#     print(notas_finais_1)                     # no video desse jeito, pra mim, QUEBRADO
+# for notas_finais_1 in map(somar_nota, notas): # no video desse jeito. Pra mim, QUEBRADO
+#     print(notas_finais_1)                     # no video desse jeito. Pra mim, QUEBRADO
 
 print(list(map(somar_nota(1.5), notas)))        # SOLUCAO STACKOVERFLOW
 print(list(map(somar_nota(1.6), notas)))        # SOLUCAO STACKOVERFLOW

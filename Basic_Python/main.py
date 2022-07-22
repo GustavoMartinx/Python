@@ -1,29 +1,29 @@
 # print("Hello World!")
 
-# import pacote.sub.arquivo
+# import package.sub.file
 #-------------------------------------
 
-# import tipos.variaveis
-# from tipos import variaveis, basicos
-# import tipos.lista
-# import tipos.tuplas
-# import tipos.conjuntos
-# import tipos.dicionario
+# import data_types.variables
+# from data_types import variables, primitives
+# import data_types.list
+# import data_types.tuples
+# import data_types.sets
+# import data_types.dicionary
 #--------------------------------------
 
-# import operadores.unarios
-# import operadores.aritmeticos
-# import operadores.relacionais
-# import operadores.atribuicao
-# import operadores.logicos
-# import operadores.ternario
+# import operators.unary
+# import operators.arithmetic
+# import operators.relational
+# import operators.assignment
+# import operators.logic
+# import operators.ternary
 #--------------------------------------
 
-# import controle.if_1
-# import controle.if_2
-# import controle.for_1
-# import controle.while_1
-# import controle.outros_exemplos
+# import control.if_1
+# import control.if_2
+# import control.for_1
+# import control.while_1
+# import control.outros_exemplos
 #--------------------------------------
 
 # from funcoes import basico
@@ -50,4 +50,4 @@
 
 # import oo.produto
 # import oo.heranca
-import oo.menbros
+# import oo.menbros
