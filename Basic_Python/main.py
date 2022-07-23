@@ -26,28 +26,30 @@
 # import control.outros_exemplos
 #--------------------------------------
 
-# from funcoes import basico
-# basico.saudacao('Mari')
-# basico.saudacao()
-# basico.saudacao('Mari', 17)
-# basico.saudacao(idade = 289)
+# from functions import basic
+# basic.salutation('Mari')
+# basic.salutation()
+# basic.salutation('Mari', 17)
+# basic.salutation(age = 289)
 
-# a = basico.soma_e_multiplicacao(10, 2, 5)
+# a = basic.sum_multiplication(10, 2, 5)
 # print(a)
 
-# from funcoes import args
-# s = args.soma(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+# from functions import args
+# Pack: packed 10 parameters inside a tuple
+# s = args.sum(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
 # print(s)
 
-# resultado = args.resultado_final(nome = 'Gu', nota = 5.5)
-# print(resultado)
+# Pack: packed 2 parameters inside a dictionary
+# result = args.final_result(name = 'Gu', score = 5.5)
+# print(result)
 
-# from funcoes import funcional
-# import funcoes.map_reduce
-# import funcoes.lambdas
-# import funcoes.comprehension
+# from functions import functional
+# import functions.map_reduce
+# import functions.lambda
+# import functions.comprehension
 #----------------------------------------------------------
 
-# import oo.produto
-# import oo.heranca
-# import oo.menbros
+# import oo.product
+# import oo.heritage
+# import oo.members
