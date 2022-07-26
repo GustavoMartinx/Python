@@ -46,7 +46,7 @@ print(output)
 
 # Copy
 x = np.array([1,2,3])
-y = x         # aqui tanto o conteudo de x sera atribuido para y
+y = x         # tanto o conteudo de x sera atribuido para y
 y[0] = 100    # quanto a alteracao de um valor especifico em y sera tbm feita para x
 print(x, y)
 
